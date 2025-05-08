@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-# 💫 About Me:
+--
+I'm Hanmant Handewar
 I do code so, I'm a code
 
 
