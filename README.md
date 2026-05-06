@@ -1,5 +1,5 @@
 # I'm Hanmant Handewar
-I do code, so I'm a code
+I do code, so I'm a coder
 
 
 ## 🌐 Socials:
